@@ -12,5 +12,6 @@ public class question_11 {
         }
         while (num!=0);
         System.out.println(b);
+
     }
 }

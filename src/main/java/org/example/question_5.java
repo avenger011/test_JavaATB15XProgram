@@ -8,6 +8,7 @@ public class question_5 {
         System.out.println("enter the number to check ");
         int num1 = sc.nextInt();
 
+
         //using the ternary opratr
         String res=(num1>0)?"positive":"negative";
 

@@ -11,6 +11,7 @@ public class question_6 {
         int num1 = sc.nextInt();
         switch(num1){
 
+
             case 1:
                 System.out.println("Monday");
                 break;

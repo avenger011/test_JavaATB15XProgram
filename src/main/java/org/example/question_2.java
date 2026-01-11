@@ -13,6 +13,7 @@ public class question_2 {
         Scanner sc=new Scanner(System.in);
         System.out.println("enther the number to check if odd or even ");
         int num=sc.nextInt();
+
         if(num==0)
         {System.out.println("the number " + num + " is neither even or odd ");}
         else {

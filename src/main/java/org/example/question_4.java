@@ -10,6 +10,7 @@ public class question_4 {
         System.out.println("enther the 2nd number");
         int num2=sc.nextInt();
 
+
         int res=(num2>num1)?num2:num1;
         System.out.println(res+"is the biggest ");
 

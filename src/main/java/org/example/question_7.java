@@ -28,6 +28,7 @@ public class question_7 {
                 System.out.println("the division of numbers is " + num1 / num2);
                 break;
 
+
             default:
                 System.out.println("Invalid input");
         }

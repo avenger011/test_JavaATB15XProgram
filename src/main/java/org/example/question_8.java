@@ -8,6 +8,7 @@ public class question_8 {
         System.out.println("enther the month number from 1-12");
         int num1=sc.nextInt();
 
+
         switch (num1)
         {
             case 1:
